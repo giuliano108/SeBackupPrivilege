@@ -1,0 +1,2 @@
+- [ ] A directory cannot be used as destination in `Copy-FileSeBackupPrivilege` (right now only files are supported). Fix that.
+- [ ] Nothing has been done to support Unicode filenames/paths.
